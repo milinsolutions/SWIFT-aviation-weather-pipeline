@@ -40,7 +40,6 @@ Utilities: python-dotenv, pyautogui
 
 SWIFT was developed using an AI-assisted engineering workflow. AI accelerated implementation by supporting code generation, debugging, dependency optimization, documentation, and iterative refinement. Architectural decisions, operational workflows, production validation, error handling, and deployment strategy were designed, reviewed, and validated based on operational requirements and real-world production experience.
 
-> ** Additional Note **
 >
 > This project reflects my approach to modern software development: combining domain expertise with AI to rapidly deliver reliable operational solutions while maintaining human ownership of engineering decisions.
 
