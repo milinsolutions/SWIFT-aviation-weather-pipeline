@@ -95,3 +95,7 @@ Planned enhancements include:
 
 ## What I Learned
 Building and operating SWIFT taught me that automation is not just about writing a script that works once. It is about building something a team can trust in production — clear error reporting, graceful degradation when a data source becomes unreliable, and being honest about the sustainability of an access method rather than quietly patching around problems indefinitely. When the primary access method became less reliable, the right response was to evaluate alternate data feeds and pursue the formal API request rather than escalating workarounds. The project also reinforced that AI is most effective when paired with deep domain understanding. While AI significantly accelerated development, reliable production systems still required operational judgment, iterative testing, and careful validation against real-world workflows.
+
+---
+
+*Part of the **[Milin Solutions](https://milinsolutions.com)** portfolio.*
