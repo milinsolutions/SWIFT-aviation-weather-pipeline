@@ -79,13 +79,13 @@ The dashboard complements SWIFT's automated reporting by providing a continuousl
 >
 > The monitoring dashboard was developed by a collaborating host system administrator and deployed alongside the production SWIFT environment. I integrated it into the operational workflow and contributed domain-specific feedback, workflow refinements, and user experience improvements to better align the dashboard with day-to-day aviation operations and monitoring requirements.
 
-## Current Status
-SWIFT is currently operational in production across all 18 ICAO stations. Following a brief 24-48 hour pause after a WAF update to Indonesian data sources introduced intermittent blocking, the system resumed normal operations without script modification — suggesting the interruption was a temporary enforcement fluctuation rather than a permanent access change. Monitoring continues, and investigation into formal API partnerships with source meteorological authorities remains ongoing as a long-term sustainable sourcing solution.
-
-##Live Dashboard
+## Live Dashboard
 ![SWIFT Dashboard](docs/images/swift-dashboard.png)
 
 *Real-time monitoring dashboard displaying operational station status.*
+
+## Current Status
+SWIFT is currently operational in production across all 18 ICAO stations. Following a brief 24-48 hour pause after a WAF update to Indonesian data sources introduced intermittent blocking, the system resumed normal operations without script modification — suggesting the interruption was a temporary enforcement fluctuation rather than a permanent access change. Monitoring continues, and investigation into formal API partnerships with source meteorological authorities remains ongoing as a long-term sustainable sourcing solution.
 
 ## Future Roadmap
 
