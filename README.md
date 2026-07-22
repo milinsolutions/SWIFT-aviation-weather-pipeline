@@ -82,6 +82,11 @@ The dashboard complements SWIFT's automated reporting by providing a continuousl
 ## Current Status
 SWIFT is currently operational in production across all 18 ICAO stations. Following a brief 24-48 hour pause after a WAF update to Indonesian data sources introduced intermittent blocking, the system resumed normal operations without script modification — suggesting the interruption was a temporary enforcement fluctuation rather than a permanent access change. Monitoring continues, and investigation into formal API partnerships with source meteorological authorities remains ongoing as a long-term sustainable sourcing solution.
 
+##Live Dashboard
+![SWIFT Dashboard](docs/images/swift-dashboard.png)
+
+*Real-time monitoring dashboard displaying operational station status.*
+
 ## Future Roadmap
 
 Planned enhancements include:
